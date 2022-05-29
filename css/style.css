@@ -30,7 +30,8 @@ img {
 }
 
 body{
-    background-color: gray;
+    background: black;
+    color: grey;
 }
 
 .hidden{
